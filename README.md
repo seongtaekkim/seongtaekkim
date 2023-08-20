@@ -9,19 +9,52 @@ Hi there, I'm [seongtaek kim](https://www.linkedin.com/in/seongtaekkim), a Repul
 -->
 
 ---
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="chrome" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="chrome" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="chrome" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="chrome" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="chrome" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+</p>
+-->
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongtaekkim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=seongtaekkim&theme=default&hide_border=false&date_format=Y/m/j&properties=background" alt="seongtaekkim" /> </p>
+
 
 <!-- https://github-readme-stats.vercel.app/api?username=seongtaekkim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seongtaekkim&line_height=24&hide_rank=true&&layout=compact&theme=white" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongtaekkim&layout=compact&langs_count=8&theme=white" />  </p>
 
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seongtaekkim&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/seongtaekkim/seongtaekkim) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongtaekkim&layout=compact&langs_count=8&theme=white)](https://github.com/seongtaekkim?tab=repositories&q=&type=&language=java&sort=) |
-| ------------- | ------------- |
 
 
+
+
+<!--
 #### Top Repositories
 
-
-<a href="https://github.com/seongtaekkim/TIL">
+<p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seongtaekkim&repo=TIL&theme=buefy" />
-</a>
+</p>
+-->
 <!--
 <a href="https://github.com/seongtaekkim/staek-framework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seongtaekkim&repo=staek-framework&theme=buefy" />
