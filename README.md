@@ -36,7 +36,8 @@ Hi there, I'm [seongtaek kim](https://www.linkedin.com/in/seongtaekkim), a Repul
 <!-- by https://github.com/anuraghazra -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongtaekkim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=seongtaekkim" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=seongtaekkim&count-private=true" /> </p>
 
 <!-- https://github-readme-stats.vercel.app/api?username=seongtaekkim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seongtaekkim&line_height=24&hide_rank=true&&layout=compact&theme=default&count-private=true" /> 
