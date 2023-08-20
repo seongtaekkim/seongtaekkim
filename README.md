@@ -10,9 +10,8 @@ Hi there, I'm [seongtaek kim](https://www.linkedin.com/in/seongtaekkim), a Repul
 
 ---
 
-<!--
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seongtaekkim&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/seongtaekkim/seongtaekkim)
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongtaekkim&layout=compact&langs_count=8&theme=white)](https://github.com/seongtaekkim?tab=repositories&q=&type=&language=java&sort=)
 
 <!--
