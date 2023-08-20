@@ -39,7 +39,7 @@ Hi there, I'm [seongtaek kim](https://www.linkedin.com/in/seongtaekkim), a Repul
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=seongtaekkim" /> </p>
 
 <!-- https://github-readme-stats.vercel.app/api?username=seongtaekkim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seongtaekkim&line_height=24&hide_rank=true&&layout=compact&theme=default" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seongtaekkim&line_height=24&hide_rank=true&&layout=compact&theme=default&count-private=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongtaekkim&layout=compact&langs_count=8&count-private=true&hide=javascript,css,scss,html&theme=default" />  </p>
 
 
